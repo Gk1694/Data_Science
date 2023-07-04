@@ -1,5 +1,5 @@
 # Data_Science tool
-# Module 1 Summary
+## Module 1 Summary
 Congratulations! You have completed this module. At this point in the course, you know:
 
 * The Data Science Task Categories include:
@@ -31,7 +31,7 @@ The data science ecosystem consists of many open source and commercial options, 
   
 ***
 
-# Module 2 Summary
+## Module 2 Summary
 Congratulations! You have completed this module. At this point in the course, you know:
 * You should select a language to learn depending on your needs, the problems you are trying to solve, and whom you are solving them for.
 * The popular languages are Python, R, SQL, Scala, Java, C++, and Julia.
@@ -49,7 +49,7 @@ Congratulations! You have completed this module. At this point in the course, yo
 
 ***
 
-# Module 3 Summary
+## Module 3 Summary
 Congratulations! You have completed this module. At this point in the course, you know:
 * Libraries usually contain built-in modules that provide different functionalities.
 * You can use data visualization methods to communicate with others and display meaningful results of an analysis. 
@@ -73,3 +73,27 @@ Congratulations! You have completed this module. At this point in the course, yo
 * You can use Red Hat OpenShift, a Kubernetes platform, to automate deployment, scaling, and management of microservices.
 * Ml-exchange.org has multiple predefined models.
 
+***
+
+## Module 4 Summary
+Congratulations! You have completed this module. At this point in the course, you know:
+* Jupyter Notebooks are used in Data Science for recording experiments and projects.
+* Jupyter Lab is compatible with many files and Data Science languages.
+* There are different ways to install and use Jupyter Notebooks.
+* How to run, delete, and insert a code cell in Jupyter Notebooks.
+* How to run multiple notebooks at the same time.
+* How to present a notebook using a combination of Markdown and code cells.
+* How to shut down your notebook sessions after you have completed your work on them.
+* Jupyter implements a two-process model with a kernel and a client.
+* The notebook server is responsible for saving and loading the notebooks.
+* The kernel executes the cells of code contained in the Notebook. 
+* The Jupyter architecture uses the NB convert tool to convert files to other formats.
+* Jupyter implements a two-process model with a kernel and a client.
+* The Notebook server is responsible for saving and loading the notebooks.
+* The Jupyter architecture uses the NB convert tool to convert files to other formats.
+* The Anaconda Navigator GUI can launch multiple applications on a local device.
+* Jupyter environments in the Anaconda Navigator include JupyterLab and VS Code.
+* You can download Jupyter environments separately from the Anaconda Navigator, but they may not be configured properly.
+* The Anaconda Navigator GUI can launch multiple applications.
+* Additional open-source Jupyter environments include JupyterLab, JupyterLite, VS Code, and Google Colaboratory. 
+* JupyterLite is a browser-based tool.
