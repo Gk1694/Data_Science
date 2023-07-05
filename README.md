@@ -1,4 +1,8 @@
-# Data_Science tool
+# Table Of Contents:
+1. [Data Science Tool](#0)
+2. [Data Science Methodologies](#1)
+
+# Data_Science tool <a id="0" ></a>
 ## Module 1 Summary
 Congratulations! You have completed this module. At this point in the course, you know:
 
@@ -121,3 +125,12 @@ Congratulations! You have completed this module. At this point in the course, yo
 * Repositories can be cloned to make it possible to work locally, then sync changes back to the original.
 
 ***
+
+# Data Science Methodologies <a id="1" ></a>
+
+## From Problem to approach Lesson Summary:
+ In this lesson, you have learned:
+* The need to understand and prioritize the business goal.
+* The way stakeholder support influences a project.
+* The importance of selecting the right model.
+* When to use a predictive, descriptive, or classification model.    
