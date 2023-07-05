@@ -134,3 +134,13 @@ Congratulations! You have completed this module. At this point in the course, yo
 * The way stakeholder support influences a project.
 * The importance of selecting the right model.
 * When to use a predictive, descriptive, or classification model.    
+
+## From Requirements to Collection Lesson Summary
+ In this lesson, you have learned:
+* The significance of defining the data requirements for your model.
+* Why the content, format, and representation of your data matter.   
+* The importance of identifying the correct sources of data for your project.
+* How to handle unavailable and redundant data.
+* To anticipate the needs of future stages in the process.
+
+  
