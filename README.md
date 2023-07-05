@@ -143,4 +143,10 @@ Congratulations! You have completed this module. At this point in the course, yo
 * How to handle unavailable and redundant data.
 * To anticipate the needs of future stages in the process.
 
-  
+## From Understanding to Prepration Lesson Summary
+In this lesson, you have learned:
+* The importance of descriptive statistics.
+* How to manage missing, invalid, or misleading data.
+* The need to clean data and sometimes transform it.
+* The consequences of bad data for the model.
+* Data understanding is iterative; you learn more about your data the more you study it. 
