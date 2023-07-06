@@ -2,6 +2,9 @@
 1. [Data Science Tool](#0)
 2. [Data Science Methodologies](#1)
 
+<details><summary>Click to see the Author Name</summary>
+ Hello My Name is Ghanshyam
+</details>
 # Data_Science tool <a id="0" ></a>
 ## Module 1 Summary
 Congratulations! You have completed this module. At this point in the course, you know:
@@ -150,3 +153,13 @@ In this lesson, you have learned:
 * The need to clean data and sometimes transform it.
 * The consequences of bad data for the model.
 * Data understanding is iterative; you learn more about your data the more you study it. 
+
+## From Modeling to prepration Lesson Summary
+In this lesson, you have learned:
+* The difference between descriptive and predictive models.
+* The role of training sets and test sets.
+* The importance of asking if the question has been answered.
+* Why diagnostic measures tools are needed.
+* The purpose of statistical significance tests.
+* That modeling and evaluation are iterative processes.
+  
