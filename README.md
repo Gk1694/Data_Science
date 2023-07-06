@@ -163,4 +163,12 @@ In this lesson, you have learned:
 * Why diagnostic measures tools are needed.
 * The purpose of statistical significance tests.
 * That modeling and evaluation are iterative processes.
-  
+
+## From Devlopment to Feedback Lesson Summary
+In this lesson, you have learned:    
+* The importance of stakeholder input.
+* To consider the scale of deployment.
+* The importance of incorporating feedback to refine the model.
+* The refined model must be redeployed.
+* This process should be repeated as often as necessary.
+
