@@ -1,6 +1,7 @@
 # Table Of Contents:
 1. [Data Science Tool](#0)
 2. [Data Science Methodologies](#1)
+3. [Database and SQL for Data Science](#2)
 
 <details><summary>Click to see the Author Name</summary>
  Hello My Name is Ghanshyam
@@ -171,4 +172,15 @@ In this lesson, you have learned:
 * The importance of incorporating feedback to refine the model.
 * The refined model must be redeployed.
 * This process should be repeated as often as necessary.
+
+***
+
+# Database and SQL for Data Science <a id="2" ></a>
+
+## Summary & Highlights
+Congratulations! You have completed this lesson. At this point in the course, you know: 
+* You can use Data Manipulation Language (DML) statements to read and modify data. 
+* The search condition of the WHERE clause uses a predicate to refine the search. 
+* COUNT, DISTINCT, and LIMIT are expressions that are used with SELECT statements. 
+* INSERT, UPDATE, and DELETE are DML statements for populating and changing tables.
 
