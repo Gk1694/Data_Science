@@ -2,6 +2,8 @@
 1. [Data Science Tool](#0)
 2. [Data Science Methodologies](#1)
 3. [Database and SQL for Data Science](#2)
+4. [Data Anaylsis using python](#3)
+
 
 <details><summary>Click to see the Author Name</summary>
  Hello My Name is Ghanshyam
@@ -247,4 +249,16 @@ Congratulations! You have completed this lesson. At this point in the course, yo
 * The most common type of join is the inner join, which matches the results from two tables and returns only the rows that match.
 * You can use an alias as shorthand for a table or column name.
 * You can use a self-join to compare rows within the same table.
+
+    ***
+
+# Data Analysis using python <a id="3"></a>
+
+## Lesson Summary
+In this lesson, you have learned how to:
+* Define the Business Problem: Look at the data and make some high-level decision on what kind of analysis should be done
+* Import and Export Data in Python: How to import data from multiple data sources using the Pandas library and how to export files into 
+  different formats.
+*Analyze Data in Python: How to do some introductory analysis in Python using functions like dataframe.head() to view the first few lines 
+ of the dataset, dataframe.info() to view the column names and data types.
 
