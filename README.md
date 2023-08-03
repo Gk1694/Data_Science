@@ -4,6 +4,7 @@
 3. [Database and SQL for Data Science](#2)
 4. [Data Anaylsis using python](#3)
 5. [Data Visualization with Python](#4)
+6. [Machine Learning](#5)
 
 
 <details><summary>Click to see the Author Name</summary>
@@ -553,7 +554,7 @@ Congratulations! You have completed this module. At this point in the course, yo
 
 The primary focus of this module is to practice the skills gained earlier in the course and then demonstrate those skills in your final assignment. For the final assignment you will analyze historical automobile sales data covering periods of recession and non-recession. You will bring your analysis to life using visualization techniques and then display the plots and graphs on dashboards. Finally, you will submit your assignment for peer review and you will review an assignment from one of your peers. To wrap up the course you will take a final exam in the form of a timed quiz.
 
-**Objectives**
+**Objectives**         
 
 By the end of this week, you will be able to:
 * Practice visualization skills
@@ -579,3 +580,11 @@ By the end of this week, you will be able to:
 
 
 #### [scroll to up](#top)
+
+# Machine Learning <a id="5" ></a>
+
+**What is machine learning?**
+
+Machine learning (ML) is the process of training computers, using math and statistical processes, to find and recognize patterns in data. After patterns are found, ML generates and updates training models to make increasingly accurate predictions and inferences about future outcomes based on historical and new data. For example, ML could help determine the likelihood of a customer purchasing a particular product based on previous purchases by the user or the product's past sales history.
+
+#### [scroll to up](#top)         
